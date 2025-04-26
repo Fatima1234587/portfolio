@@ -1,0 +1,81 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fatima | Web Developer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background-color: #4a90e2;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 0.5rem;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    ul li {
+      padding: 0.3rem 0;
+    }
+    footer {
+      background-color: #4a90e2;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Fatima</h1>
+    <p>Web Developer</p>
+  </header>  <section>
+    <h2>About Me</h2>
+    <p>I am Fatima, working as a Web Developer with a strong passion for creating functional and aesthetic websites.</p><h2>Skills</h2>
+<ul>
+  <li>Frontend Development</li>
+  <li>Backend Development</li>
+</ul>
+
+<h2>Projects</h2>
+<p>Currently a fresher, open to working on new and exciting web development projects.</p>
+
+<h2>Experience</h2>
+<p>Fresher - looking for opportunities to grow and apply my knowledge in real-world environments.</p>
+
+<h2>Education</h2>
+<p>Bachelor of Science in Information Technology (BSIT)</p>
+
+<h2>Hobbies</h2>
+<ul>
+  <li>Reading Books</li>
+  <li>Visiting New Places</li>
+</ul>
+
+<h2>Contact</h2>
+<p>Email: <a href="mailto:Fatimaxyz@gmail.com">Fatimaxyz@gmail.com</a></p>
+
+  </section>  <footer>
+    <p>© 2025 Fatima. All rights reserved.</p>
+  </footer>
+</body>
+</html>
